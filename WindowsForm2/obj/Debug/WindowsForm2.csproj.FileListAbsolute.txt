@@ -1,0 +1,9 @@
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm1\WindowsForm2\bin\Debug\WindowsForm2.exe.config
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm1\WindowsForm2\bin\Debug\WindowsForm2.exe
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm1\WindowsForm2\bin\Debug\WindowsForm2.pdb
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm1\WindowsForm2\obj\Debug\WindowsForm2.Form1.resources
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm1\WindowsForm2\obj\Debug\WindowsForm2.Properties.Resources.resources
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm1\WindowsForm2\obj\Debug\WindowsForm2.csproj.GenerateResource.cache
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm1\WindowsForm2\obj\Debug\WindowsForm2.csproj.CoreCompileInputs.cache
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm1\WindowsForm2\obj\Debug\WindowsForm2.exe
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm1\WindowsForm2\obj\Debug\WindowsForm2.pdb
